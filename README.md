@@ -31,7 +31,7 @@ I am a Full Stack Web and Mobile Developer <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I read technical blogs or enjoy a walk outside.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shumia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faith-gaiciumia-37a377223)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-shumia-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kamencufaithy?t=ki0kwNzShmm_5St35NGdmw&s=09)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
